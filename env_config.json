@@ -4,7 +4,7 @@
         "region": "us-west-2",
         "state_bucket":"REPLACE_ME_TOO"
     },
-    "dev": {
+    "my_first_tf_env_2": {
         "role": "arn:aws:iam::765742521795:role/ExampleGithubRole",
         "region": "eu-central-1",
         "state_bucket":"aws-proton-terraform-bucket-765742521795"
